@@ -1,0 +1,8 @@
+Rafia Siddiki Mim,3.9,Data Structure 
+Rafia Siddiki Mim,3.9,Database 
+Rafia Siddiki Mim,3.9,Circuit 
+Rafia Siddiki Mim,3.9,Math4 
+Adnan Sami,3.9,Data Structure 
+Adnan Sami,3.9,Database 
+Adnan Sami,3.9,Math4 
+Adnan Sami,3.9,Circuit 
